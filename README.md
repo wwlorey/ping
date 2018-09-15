@@ -2,8 +2,8 @@
 
 2. Complete the UDPPinger.pdf activity; 
 Complete both optional exercises.
-Name your client program `UPD_Pinger_Client.py`.
-Name your modified server for optional exercise 2 `UDP_Pinger_Server_Heartbeat.py`
+Name your client program `UDP_Pinger_Client.py`.
+Name your modified server for optional exercise 2 `UDP_Pinger_Server_Heartbeat.py` and `UPD_Pinger_Client_Heatbeat.py`
 
 For both parts, include the source code and screenshots (in png format) as instructed in each PDF.
 
