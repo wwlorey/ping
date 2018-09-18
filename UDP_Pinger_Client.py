@@ -18,7 +18,7 @@ rtt_list = [None] * NUM_PINGS
 # Create a UDP socket
 clientSocket = socket(AF_INET, SOCK_DGRAM)
 
-# Set a 1sec timeout for the socket
+# Set a timeout for the socket in seconds
 clientSocket.settimeout(TIMEOUT)
 
 for ping_num in range(1, NUM_PINGS + 1):
