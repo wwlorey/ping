@@ -46,7 +46,7 @@ for ping_num in range(1, NUM_PINGS + 1):
         rtt_list[ping_num - 1] = rtt
         
     except:
-        print('Response timed out')
+        print('Request timed out')
 
     print()
 
