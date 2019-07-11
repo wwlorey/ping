@@ -1,3 +1,7 @@
+#### CS 5600 Networks | A ping implementation using UDP
+
+#### Assignment prompt:
+
 # Programming assignment 2 (pa02)
 
 2. Complete the UDPPinger.pdf activity; 
